@@ -1,5 +1,5 @@
 body {
-  background-color: white;
+  background-color: rgb(202, 195, 195);
   display: flex;
   justify-content: center;
   box-sizing: border-box;
@@ -17,7 +17,7 @@ main {
 .mainbody {
   background-color: white;
   height: 50rem;
-  width: 75rem;
+  width: 60rem;
   margin-left: 2rem;
   top: 0px;
 }
@@ -31,25 +31,26 @@ h4 {
 }
 
 h3 {
-  text-align: center;
+  /* text-align: center; */
   font-family: "work", sans-serif;
   text-transform: capitalize;
-  margin-top: 6rem;
-  font-size: 3rem;
+  margin-top: 9rem;
+  font-size: 2rem;
   font-weight: normal;
 }
 h1 {
   font-family: "Work Sans", sans-serif;
   /* font-family: "Times New Roman", Times, serif; */
   font-size: 4rem;
-  margin-top: 4rem;
+  margin-top: 2.5rem;
 }
 p {
     color: black;
   font-family: Raleway;
   font-weight: normal;
-  font-size: 1.2rem;
-  line-height: 36px;
+  font-size: 1rem;
+  line-height: 30px;
+  margin-top: -1rem;
 }
 .last-p {
   margin-top: -0.2rem;
@@ -71,10 +72,10 @@ a {
   color: gray;
   text-decoration: none;
 }
-
+/* 
 .foots {
   text-align: center;
 }
 .mid-body {
-  text-align: center;
-}
+  text-align: center; */
+/* } */

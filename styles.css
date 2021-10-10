@@ -8,6 +8,12 @@ body {
 main {
   background-color: rgb(6, 168, 152);
 }
+
+span {   
+  font-size: 1.5rem;
+  font-weight: 500;
+  font-family: 'work san', sans-serif;
+}
 .headprops {
   display: flex;
   justify-content: space-between;
@@ -53,15 +59,10 @@ p {
   margin-top: -1rem;
 }
 .last-p {
-  margin-top: -0.2rem;
+  margin-top: -0.1rem;
   font-size: 1rem;
   font-weight: 600;
 }
-span {
-  font-size: 1.5rem;
-  font-weight: 800;
-}
-
 img {
   height: 2rem;
 }
@@ -71,6 +72,7 @@ img {
 a {
   color: gray;
   text-decoration: none;
+  justify-content: end;
 }
 /* 
 .foots {

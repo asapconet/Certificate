@@ -69,6 +69,7 @@ img {
 }
 a {
   color: gray;
+  text-decoration: none;
 }
 
 .foots {

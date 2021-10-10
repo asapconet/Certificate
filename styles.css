@@ -1,0 +1,68 @@
+body {
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  box-sizing: border-box;
+  height: 100%;
+}
+main {
+  background-color: rgb(6, 168, 152);
+}
+.headprops {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.mainbody {
+  background-color: white;
+  height: 50rem;
+  width: 75rem;
+  margin-left: 2rem;
+  top: 0px;
+}
+.solo-body {
+  margin-top: 0px;
+  padding: 5rem;
+}
+h4 {
+  color: turquoise;
+  font-size: 1.5rem;
+}
+
+h3 {
+  font-family: "work", sans-serif;
+  text-transform: capitalize;
+  margin-top: 6rem;
+  font-size: 3rem;
+  font-weight: normal;
+}
+h1 {
+  font-family: "Work Sans", sans-serif;
+  /* font-family: "Times New Roman", Times, serif; */
+  font-size: 4rem;
+  margin-top: 4rem;
+}
+p {
+  font-family: Raleway;
+  font-weight: normal;
+  font-size: 1.2rem;
+  line-height: 36px;
+}
+.last-p {
+  margin-top: -0.4rem;
+}
+span {
+  font-size: 1.5rem;
+  font-weight: 800;
+}
+
+img {
+  height: 2rem;
+}
+.sign {
+  height: 6rem;
+}
+a {
+  color: gray;
+}

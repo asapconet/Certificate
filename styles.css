@@ -1,5 +1,5 @@
 body {
-  background-color: rgb(202, 195, 195);
+  background-color: rgb(241, 238, 238);
   display: flex;
   justify-content: center;
   box-sizing: border-box;
@@ -9,7 +9,7 @@ main {
   background: #00aeff;
   height: 50rem;
   margin-top: 3rem;
-  box-shadow: 0.1rem 0.1rem 0.7rem rgb(68, 68, 68);
+  box-shadow: 0.1rem 0.1rem 0.7rem rgb(192, 191, 191);
 }
 
 span {
